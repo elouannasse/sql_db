@@ -151,6 +151,7 @@ GROUP BY m.Title;
 --fin
 
 
+
 -- Group By : Grouper les utilisateurs par type d’abonnement et compter le nombre total d’utilisateurs par groupe.
 
 
